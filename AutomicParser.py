@@ -18,12 +18,9 @@ def ParseAutomic(xmlfile):
 
 
 
-def ParseFolderStruct:
-    Print('ParseFolderStruct')
 
-
-def ParseFolderStruct:
-    Print('ParseFolder')
+def ParseFolderStruct(xmlbranch):
+    print('ParseFolder')
 
 def ParseFolder(xmlbranch):
     print('ParseFolder')
